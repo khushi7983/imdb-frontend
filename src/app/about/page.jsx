@@ -3,9 +3,9 @@ import React from 'react'
 // import Providers from '../Providers'
 export default function About() {
   return (
-      <div className='min-h-screen flex items-center justify-cente  text-gray-700 dark:text-gray-200 dark:bg-gray-700  select-none transition-colors '>
+      <div className='min-h-screen flex justify-cente  text-gray-700 dark:text-gray-200 dark:bg-gray-700  select-none transition-colors  '>
 
-    <div className='max-w-6xl mx-auto p-4 space-y-4'>
+    <div className='max-w-6xl mx-auto p-2 space-y-6 pt-14 mt-8'>
       <h1 className='text-2xl font-medium text-amber-600'>About</h1>
       <p>
         Welcome to our movie database website! We are a team of passionate movie
